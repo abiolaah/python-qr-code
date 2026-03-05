@@ -1,0 +1,8 @@
+# generated image
+qr_code.png
+
+# cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
